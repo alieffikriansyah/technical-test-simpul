@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sponsored Employees                   0</name>
+   <tag></tag>
+   <elementGuidId>d9a24598-a453-4c17-8e59-574b37db9263</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div/div[2]/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Sponsored Employees 0&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f233d5e-9562-4ed2-b708-e9e0e57f21ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6bb7e6b3-2aa7-4356-a495-b55cc76848cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>81f099f7-f1ec-4d1b-a4e7-bc5d109858a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>4188e1e4-a228-4c7b-b30c-0d766af96509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-tab</value>
+      <webElementGuid>03883e9d-ac8e-449c-962d-65a6d0b89076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sponsored Employees   
+                0
+              </value>
+      <webElementGuid>6d264f60-0402-4e83-8840-93b1df48f953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;detail_member&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;v-tabs theme--light&quot;]/div[@class=&quot;v-item-group theme--light v-slide-group v-slide-group--is-overflowing v-tabs-bar v-tabs-bar--is-mobile&quot;]/div[@class=&quot;v-slide-group__wrapper&quot;]/div[@class=&quot;v-slide-group__content v-tabs-bar__content&quot;]/div[@class=&quot;v-tab&quot;]</value>
+      <webElementGuid>aa142ccd-644f-42d2-a500-ecaa1f7f74d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div/div[2]/div/div[4]</value>
+      <webElementGuid>90613c4c-6c32-4b9f-9b51-3a3f9ba94ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete Task'])[1]/following::div[1]</value>
+      <webElementGuid>77654037-c441-426b-93a5-5e235a15d38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Cases'])[1]/following::div[2]</value>
+      <webElementGuid>0ea8f06c-8ce8-453c-9d74-4834e0229c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Cases'])[2]/preceding::div[1]</value>
+      <webElementGuid>a8bb6235-0f4b-4038-b155-0dcb4cb5b2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]</value>
+      <webElementGuid>82f44aee-a60d-457a-b486-d5ab76ea0f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sponsored Employees   
+                0
+              ' or . = 'Sponsored Employees   
+                0
+              ')]</value>
+      <webElementGuid>84fca9ce-703b-4ad7-a362-659d23e9dd8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View</name>
+   <tag></tag>
+   <elementGuidId>2b7c7479-9480-463f-91e0-f020a9ab1155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='member-action-button-3']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#member-action-button-3 > div.d-flex.flex-row.align-items-start.justify-content-end.flex-wrap > a.color-blue-1.d-flex.align-items-center.justify-content-start.rounded.px-3.py-2.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Tester Simpul testersimpul85390 testersimpul@allfreemail.net guest Active View&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6136b74-3a36-4f70-82f4-22c20cf0855b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color-blue-1 d-flex align-items-center justify-content-start rounded px-3 py-2 mr-1</value>
+      <webElementGuid>27e961b1-fcc9-43fb-92e8-7c58189fe7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/members/14</value>
+      <webElementGuid>d8a0a73e-6538-4372-8a7a-a98a0aa97d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>44f10b29-bbba-40b7-b685-dfa225836911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;member-action-button-3&quot;)/div[@class=&quot;d-flex flex-row align-items-start justify-content-end flex-wrap&quot;]/a[@class=&quot;color-blue-1 d-flex align-items-center justify-content-start rounded px-3 py-2 mr-1&quot;]</value>
+      <webElementGuid>ab244a21-13d2-46a1-ba1d-45a83d6b761d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='member-action-button-3']/div/a</value>
+      <webElementGuid>3d9ccca5-7193-4f68-ab03-9c3085eda41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View')])[4]</value>
+      <webElementGuid>63ed4a08-c1c5-4879-a602-d46952d9d8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[4]/following::a[1]</value>
+      <webElementGuid>fa7ebe7d-8de1-47da-a296-43ef17f0de88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='guest'])[4]/following::a[1]</value>
+      <webElementGuid>e6ee7411-dd98-40f3-b302-2e8e7b24b7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task was successfully created.'])[1]/preceding::a[1]</value>
+      <webElementGuid>98615a74-e72a-4e47-b985-9b8bdb5e8bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document is being processed, check progress on process log!'])[1]/preceding::a[1]</value>
+      <webElementGuid>e3571bde-e693-49e2-9efc-718a7b82a3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dashboard/members/14')]</value>
+      <webElementGuid>4f6b92d5-6c1b-4781-8309-9f339ef803dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[6]/div/div/a</value>
+      <webElementGuid>692a7701-eb98-4028-9086-8661778e37f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dashboard/members/14' and (text() = 'View' or . = 'View')]</value>
+      <webElementGuid>27815029-67f9-4fdf-b801-0d7990bb3f7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

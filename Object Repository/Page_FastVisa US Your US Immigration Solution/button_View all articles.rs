@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View all articles</name>
+   <tag></tag>
+   <elementGuidId>515fe91b-079c-464f-a5ae-9a4b2021e743</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-view.v-btn.v-btn--flat.v-btn--text.theme--light.v-size--small.white--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.btn-view >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1159bde6-8a42-43ee-9536-f51903d2ef11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>06c5eee2-e7ce-42cc-927c-f7a297145d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-view v-btn v-btn--flat v-btn--text theme--light v-size--small white--text</value>
+      <webElementGuid>557e3841-c0fb-4bf9-b505-f41e21157fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all articles</value>
+      <webElementGuid>2c76167f-cb59-4969-bdc9-83c0d302a359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-content&quot;]/div[@class=&quot;v-content__wrap&quot;]/div[@class=&quot;container pt-0 container--fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pl-6 pr-4 col-md-9 col-12&quot;]/div[2]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;col-md-7 col-12&quot;]/div[1]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;pt-0 col-md-6 col-12&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions card-footer mt-2&quot;]/a[1]/button[@class=&quot;btn-view v-btn v-btn--flat v-btn--text theme--light v-size--small white--text&quot;]</value>
+      <webElementGuid>f7e71f6f-c993-42e7-840d-2848258fd859</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>78622379-e7c0-4e8b-8dc0-3e938a73d097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div/div[2]/div/div/div/div[2]/div[7]/div/div[2]/a/button</value>
+      <webElementGuid>fa78637f-5a4c-4935-9670-95ebfdea5c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Invoice Details'])[1]/following::button[1]</value>
+      <webElementGuid>5e3485e2-e2c8-4606-95ad-2eb7d752c1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All Invoices from..'])[1]/following::button[1]</value>
+      <webElementGuid>ed2e4fd4-b61b-4927-8eb3-7a5f64d5a4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clients'])[2]/preceding::button[1]</value>
+      <webElementGuid>2118065d-d6d6-41b8-96f0-1b18dd33f76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>a45bc8dc-f88b-43b0-bbed-754d6fa50408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'View all articles' or . = 'View all articles')]</value>
+      <webElementGuid>4118f3ff-dac9-4bc2-9c08-1d6b8cf00b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

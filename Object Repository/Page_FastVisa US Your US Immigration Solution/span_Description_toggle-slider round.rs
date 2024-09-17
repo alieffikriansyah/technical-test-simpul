@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Description_toggle-slider round</name>
+   <tag></tag>
+   <elementGuidId>2a507703-5c35-40dd-853d-b67463fc8f08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='new_task']/div[3]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.toggle-slider.round</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#new_task span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d57d82e1-9417-48e7-add8-97927dbcc1f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle-slider round</value>
+      <webElementGuid>e5e2e588-3c53-43d7-8263-e89a480b5483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_task&quot;)/div[@class=&quot;my-3 d-flex align-items-start&quot;]/label[@class=&quot;toggle-switch mr-1&quot;]/span[@class=&quot;toggle-slider round&quot;]</value>
+      <webElementGuid>1dcfb617-fe6a-423f-a44d-f9aeca4dc17b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_task']/div[3]/label/span</value>
+      <webElementGuid>ae9ed45b-2f47-4f3a-882b-a883c01cbe1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>292bb8c8-1852-4923-bc4c-6074ab73b128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_task']/div[4]/label/span</value>
+      <webElementGuid>77e40bdc-9639-4dca-9731-0ec5191d9741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/span</value>
+      <webElementGuid>2fd685cd-6dd2-490d-80e2-85d38d78a400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

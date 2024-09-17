@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Manual Entry_btn btn-danger</name>
+   <tag></tag>
+   <elementGuidId>d7acc7fd-d803-4a4f-9bcd-48d403222761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/table/tbody/tr/td[8]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Johnathan Smith - - - johnathan.smith@allfreemail.net (555) 901-2345 Manual Entry&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c8c73b6-57b0-461f-b6e5-10f5a208eca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>67845e75-a8d6-405e-afee-d82425cb6771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;detail_member&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;v-window p-4 v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/div[1]/div[2]/div[1]/div[1]/div[@class=&quot;pt-3 pb-1&quot;]/table[1]/tbody[1]/tr[1]/td[8]/button[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>d4fe7f04-072e-4db0-a8d8-18f082dac231</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/table/tbody/tr/td[8]/button</value>
+      <webElementGuid>47d3ad86-f91c-4786-a6ff-10460ef2e3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Entry'])[1]/following::button[1]</value>
+      <webElementGuid>aededd6d-0aa3-4484-9878-887a5f92a4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(555) 901-2345'])[1]/following::button[1]</value>
+      <webElementGuid>2f3dd2db-7552-4e92-b478-0c311f3b718f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing'])[1]/preceding::button[1]</value>
+      <webElementGuid>e2e8f55a-a467-4a51-beaf-946ca0ef6205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/button</value>
+      <webElementGuid>aff675b5-8434-4bc9-b225-107a10087d8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Per Department_v-icon notranslate bg-whit_dd8a6c</name>
+   <tag></tag>
+   <elementGuidId>b07d8638-7241-4b61-b15b-51718e4d5f9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div/div/div[3]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.bg-white.position-absolute.p-2.mdi.mdi-magnify.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Search Client(s)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>afff1a38-f2bb-4299-bd8b-c62128176b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c4807fa0-c909-4626-9c27-63f5aff7d4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate bg-white position-absolute p-2 mdi mdi-magnify theme--light</value>
+      <webElementGuid>deb2f40f-d512-4206-a8dc-dfcc3ab49a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog font-lato bg-white v-dialog--active&quot;]/div[@class=&quot;p-3&quot;]/div[@class=&quot;input-search mb-4&quot;]/div[@class=&quot;search-container position-relative bg-white w-100&quot;]/i[@class=&quot;v-icon notranslate bg-white position-absolute p-2 mdi mdi-magnify theme--light&quot;]</value>
+      <webElementGuid>a7d2bb6f-af70-4040-91c5-57efbc773a2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div/div/div[3]/div/i</value>
+      <webElementGuid>306864a5-2986-4d72-8138-ea79b82bc305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/i</value>
+      <webElementGuid>88f76922-8275-46a3-ba7d-03413a8cc72a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

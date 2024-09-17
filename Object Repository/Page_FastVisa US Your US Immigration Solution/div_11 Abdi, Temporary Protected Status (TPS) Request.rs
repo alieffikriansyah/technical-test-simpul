@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11 Abdi, Temporary Protected Status (TPS) Request</name>
+   <tag></tag>
+   <elementGuidId>a179eb35-b2b1-45a4-8a8a-c7250ef460ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='new_task']/div[6]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.token</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;#11: Abdi, Temporary Protected Status (TPS) Request×&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05d145a5-908b-4a84-a273-1f8ed54e02df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>token</value>
+      <webElementGuid>2d548171-1deb-4f1f-b9ee-b7f3b3773061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#11: Abdi, Temporary Protected Status (TPS) Request×</value>
+      <webElementGuid>f45c4cbe-990e-46b3-9c46-11c8db4f81ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_task&quot;)/div[6]/div[@class=&quot;tokenfield form-control&quot;]/div[@class=&quot;token&quot;]</value>
+      <webElementGuid>40161c0a-f0eb-410c-922a-c0ec74ee0180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_task']/div[6]/div/div</value>
+      <webElementGuid>5dae9441-9fe0-4d54-a2c8-569995e64e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign to case'])[1]/following::div[3]</value>
+      <webElementGuid>7657e842-723a-4d0d-aab3-641f840cb2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due date'])[1]/following::div[4]</value>
+      <webElementGuid>5bd77e51-7bb4-4414-938f-aea0a02e9a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>765176a4-9e96-4f03-bec7-b2a314f57557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '#11: Abdi, Temporary Protected Status (TPS) Request×' or . = '#11: Abdi, Temporary Protected Status (TPS) Request×')]</value>
+      <webElementGuid>2c7485bb-d32d-4e26-84d1-ac183300ec57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashborad Review button log out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cd49bb3-9a63-4cd9-8907-766fbc257995</testCaseGuid>
+</TestCaseEntity>

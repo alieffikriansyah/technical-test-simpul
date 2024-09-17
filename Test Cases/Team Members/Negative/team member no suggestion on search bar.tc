@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>team member no suggestion on search bar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5327643-7cd6-4425-8d41-b397e60a865e</testCaseGuid>
+</TestCaseEntity>

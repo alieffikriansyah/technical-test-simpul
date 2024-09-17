@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Client(s) not found</name>
+   <tag></tag>
+   <elementGuidId>a0480049-b02e-4cad-a86d-af311c11378f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seq-scrollable-members']/table/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-center.p-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Client(s) not found&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>10e58a3b-33a5-4cfe-aad5-f25e3643fb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>7231b523-eb7a-4361-a894-338ddb63559b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center p-3</value>
+      <webElementGuid>618fbf72-e9ba-4c69-ade5-ea486f915a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client(s) not found</value>
+      <webElementGuid>7d772b73-2de5-4be5-8571-929e97b23fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seq-scrollable-members&quot;)/table[@class=&quot;w-100&quot;]/tr[1]/td[@class=&quot;text-center p-3&quot;]</value>
+      <webElementGuid>b0ca43c5-bc50-47ad-b837-b1746848c0cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seq-scrollable-members']/table/tr/td</value>
+      <webElementGuid>dfb74fa7-9128-4828-9948-384f5bf0ddee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::td[1]</value>
+      <webElementGuid>4f62a144-4c7c-48e4-b2b7-a3b48eb3acea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::td[1]</value>
+      <webElementGuid>b5b907f8-2869-4805-9e64-bfc0624324f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document is being processed, check progress on process log!'])[1]/preceding::td[1]</value>
+      <webElementGuid>811b4065-62d0-497f-a34d-ae47e7791656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Client(s) not found']/parent::*</value>
+      <webElementGuid>084c3340-6ca2-428c-a2d1-3c5c06529fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table/tr/td</value>
+      <webElementGuid>123c66f8-f37f-48c2-aa8a-88b7453a38fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Client(s) not found' or . = 'Client(s) not found')]</value>
+      <webElementGuid>fd2b2802-fb35-44da-a4d0-92dbd43cea39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
